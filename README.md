@@ -1,14 +1,14 @@
-Prediction of Housing Affordability Based on Wage Growth and Inflation in the EU
+**Prediction of Housing Affordability Based on Wage Growth and Inflation in the EU**
 
-Overview
+**Overview**
 
 This project aims to predict housing affordability trends across EU countries by analyzing the impact of wage growth, inflation, and housing costs. Using statistical and machine learning techniques, the project uncovers patterns and proposes evidence-based solutions for improving housing accessibility.
 
-Problem Statement
+**Problem Statement**
 
 Housing affordability has become a critical issue in the EU, where rising housing costs and inflation often outpace wage growth. This project models the interplay of these factors to identify affordability trends and recommend strategies for mitigating the impact of economic pressures on housing.
 
-Dataset Sources
+**Dataset Sources**
 
 The project integrates data from multiple sources to ensure a comprehensive analysis:
 
@@ -28,7 +28,7 @@ Global Property Guide
 
 Eurostat Housing Affordability
 
-Research Questions
+**Research Questions**
 
 Primary Research Question:
 
@@ -40,7 +40,7 @@ Can predictive models accurately forecast housing affordability trends for speci
 
 How do housing affordability disparities differ between urban and rural areas in the EU, and which regions are most vulnerable to affordability crises?
 
-Project Workflow
+**Project Workflow**
 
 1. Design Overview
 
@@ -52,7 +52,7 @@ Machine Learning (ML) Models: Building predictive models for housing affordabili
 
 2. Data Engineering and Ethical Issues
 
-Data Engineering Challenges:
+**Data Engineering Challenges**
 
 Standardizing datasets from different sources and formats.
 
@@ -60,7 +60,7 @@ Handling missing data for housing prices or regional wage data.
 
 Addressing temporal mismatches in datasets (e.g., inflation data vs. property price data).
 
-Ethical Considerations:
+**Ethical Considerations**
 
 Ensuring privacy by anonymizing demographic data if required.
 
@@ -82,7 +82,7 @@ Test alternative methods, such as XGBoost or Neural Networks, for robust predict
 
 Evaluate model accuracy using metrics such as RMSE, R^2, and MAE.
 
-Expected Deliverables
+**Expected Deliverables**
 
 Datasets: Cleaned and integrated data for analysis, combining Eurostat and external sources.
 
